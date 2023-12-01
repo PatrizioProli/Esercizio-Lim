@@ -1,0 +1,96 @@
+body{
+    background-image: url(./background.jpg);
+    background-size: 1500px;
+background-repeat: no-repeat;}
+
+.sottosfondo{
+    margin-left: 300px;
+    height:750px;
+    width:1000px;
+    border-radius:50px;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.sopra{
+    text-align: center;
+}
+
+  #sopra1{
+    height:80px;
+    position:relative;
+    left:10px;
+    top:80px;
+} 
+  #sopra2{
+    font-size: xx-large;
+    position:relative;
+    top:46px;
+    left:90px;
+    color:rgb(0, 255,0);
+    opacity:1
+}
+
+#spazio{
+    height:20px;}
+
+
+#barra{
+    position: relative;
+    left:150px;
+    height: 35px;
+    width: 800px;
+    background-color: rgb(00, 255, 00);
+    opacity: 1;
+}
+
+.bottoni{
+    font-size: 3px;
+    padding-left: 250px;
+    padding-bottom: 6px;
+    padding-top:6px;}
+    
+
+.sotto{
+    position:relative;
+    top:40px;
+    left: 150px;
+    color:white
+}
+
+.sc{
+    font-size:small;}
+
+
+
+.stato{
+    position:absolute;
+    border-radius: 20px;
+
+}
+#statocarica1{
+    position:relative;
+    bottom:11px;
+    right:2px;
+    width: 300px;
+    height: 25px;
+    background-color: sandybrown;
+}
+
+#statocarica2{
+    position:relative;
+    bottom:11px;
+    right:2px;
+    width: 550px;
+    height: 25px;
+    background-color: green;
+}
+
+#statocarica3{
+    position:relative;
+    bottom:11px;
+    right:2px;
+    width: 150px;
+    height: 25px;
+    background-color: red;
+}
